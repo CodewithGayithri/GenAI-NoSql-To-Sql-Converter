@@ -34,13 +34,10 @@ A Generative AI-based web application that converts NoSQL and MongoDB JSON data 
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](screenshots/home.png)
-
-### 🔹 JSON Input
-![Input](screenshots/input.png)
+![Home](screenshots/ui.png)
 
 ### 🔹 Generated SQL Output
-![Output](screenshots/output.png)
+![Output](screenshots/result.png)
 
 ---
 
